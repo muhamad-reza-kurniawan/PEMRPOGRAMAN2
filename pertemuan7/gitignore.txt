@@ -1,0 +1,13 @@
+# Compiled output
+*.class
+bin/
+
+# Database file (opsional, tergantung kamu mau commit db-nya atau tidak)
+*.db
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
